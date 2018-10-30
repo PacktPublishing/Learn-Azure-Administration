@@ -1,1 +1,0 @@
-Enable-AzureRmAlias -Scope LocalMachine
