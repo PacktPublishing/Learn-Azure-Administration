@@ -1,1 +1,0 @@
-Uninstall-AllModules -TargetModule AzureRM -Version 6.5.0 -Force
